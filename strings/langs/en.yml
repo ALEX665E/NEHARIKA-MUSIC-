@@ -75,7 +75,7 @@ admin_34 : "Failed to seek the current stream."
 
 # Start
 start_1 : "Thanks for having me in {0}.\n{1} is alive.\n\nFor any assistance or help, checkout our support group and channel."
-start_2 : "Hello, My name is {0}.\n\nI'm a telegram streaming bot with some useful features. Supporting platforms like Youtube, Spotify, Resso, AppleMusic , Soundcloud etc.\n\nFeel free to add me to your groups."
+start_2 : "ʜᴇʟʟᴏ, ᴍʏ ɴᴀᴍᴇ ɪꜱ °sᴀᴜᴍʏᴀ ᴍᴜsɪᴄ ♪.\n\nɪ'ᴍ ᴀ ᴛᴇʟᴇɢʀᴀᴍ ꜱᴛʀᴇᴀᴍɪɴɢ ʙᴏᴛ ᴡɪᴛʜ ꜱᴏᴍᴇ ᴜꜱᴇꜰᴜʟ ꜰᴇᴀᴛᴜʀᴇꜱ. ꜱᴜᴘᴘᴏʀᴛɪɴɢ ᴘʟᴀᴛꜰᴏʀᴍꜱ ʟɪᴋᴇ ʏᴏᴜᴛᴜʙᴇ, ꜱᴘᴏᴛɪꜰʏ, ʀᴇꜱꜱᴏ, ᴀᴘᴘʟᴇᴍᴜꜱɪᴄ , ꜱᴏᴜɴᴅᴄʟᴏᴜᴅ ᴇᴛᴄ.\n\nꜰᴇᴇʟ ꜰʀᴇᴇ ᴛᴏ ᴀᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘꜱ."
 start_3 : "Welcome To {0}\n\nI don't need any **admin permission** to work ( until asked for ).\n\nAssistant Username:- @{1}\nAssistant ID:- {2}"
 start_4 : "{0}'s Owner[{1}] has just joined your chat."
 start_5 : "A member of {0}'s Sudo User[{1}] has just joined your chat."
@@ -237,31 +237,31 @@ stream_4 : "📡 **Started Streaming** 💡\n\n**🏷Title:** [{0}]({1})\n⌛️
 # Inline Buttons
 
 #General Buttons
-CLOSE_BUTTON  : "🗑 Close"
-CLOSEMENU_BUTTON  : "🗑 Close Menu"
-BACK_BUTTON : "⬅ Back"
-UNBAN_BUTTON : "🗑 Unban Assistant"
+CLOSE_BUTTON  : "🗑 ᴄʟᴏꜱᴇ"
+CLOSEMENU_BUTTON  : "🗑 ᴄʟᴏꜱᴇ ᴍᴇɴᴜ"
+BACK_BUTTON : "⬅ ʙᴀᴄᴋ"
+UNBAN_BUTTON : "🗑 ᴜɴʙᴀɴ ᴀꜱꜱɪꜱᴛᴀɴᴛ"
 
 #Lyrics
 L_B_1 : "🚀 Checkout Lyrics Now"
 
 # Start
-S_B_1 : "🗒 Commands"
-S_B_2 : "🔧 Settings"
-S_B_3 : "📨 Support"
-S_B_4 : "📨 Channel"
-S_B_5 : "✚ Add me to your Group"
-S_B_6 : "💡 Git Repo"
-S_B_7 : "👤 Bot Owner"
-S_B_8 : "🔎 How to Use? Commands Menu."
+S_B_1 : "🗒 ᴄᴏᴍᴍᴀɴᴅꜱ"
+S_B_2 : "🔧 ꜱᴇᴛᴛɪɴɢꜱ"
+S_B_3 : "📨 ꜱᴜᴘᴘᴏʀᴛ"
+S_B_4 : "📨 ᴄʜᴀɴɴᴇʟ"
+S_B_5 : "✚ ᴀᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ"
+S_B_6 : "💡 ɢɪᴛ ʀᴇᴘᴏ"
+S_B_7 : "👤 ʙᴏᴛ ᴏᴡɴᴇʀ"
+S_B_8 : "🔎 ʜᴏᴡ ᴛᴏ ᴜꜱᴇ? ᴄᴏᴍᴍᴀɴᴅꜱ ᴍᴇɴᴜ."
 
 #Help 
-H_B_1 : "Admin Commands"
-H_B_2 : "Play Commands"
-H_B_3 : "Bot Commands"
-H_B_4 : "Extra Commands"
-H_B_5 : "Close Menu"
-H_B_6 : "SudoUser Commands"
+H_B_1 : "ᴀᴅᴍɪɴ ᴄᴏᴍᴍᴀɴᴅꜱ"
+H_B_2 : "ᴘʟᴀʏ ᴄᴏᴍᴍᴀɴᴅꜱ"
+H_B_3 : "ʙᴏᴛ ᴄᴏᴍᴍᴀɴᴅꜱ"
+H_B_4 : "ᴇxᴛʀᴀ ᴄᴏᴍᴍᴀɴᴅꜱ"
+H_B_5 : "ᴄʟᴏꜱᴇ ᴍᴇɴᴜ"
+H_B_6 : "ꜱᴜᴅᴏᴜꜱᴇʀ ᴄᴏᴍᴍᴀɴᴅꜱ"
 
 #PlayMode
 PM_B_1 : "DirectPlay"
@@ -322,14 +322,14 @@ SG_B_2 : "🔊 Audio"
 SG_B_3 : "🎥 Video"
 
 #Stats
-SA_B_1 : "📢 Top 10 Chat"
-SA_B_2 : "🔢 Top 10 Tracks"
-SA_B_3 : "🧛 Top 10 Users"
-SA_B_4 : "🏷 Top 10 Here"
-SA_B_5 : "💡 Overall Stats"
-SA_B_6 : "👤 User Stats"
-SA_B_7 : "🔢 Global Top 10 Stats"
-SA_B_8 : "🤖 Bot Stats"
+SA_B_1 : "📢 ᴛᴏᴘ 10 ᴄʜᴀᴛ"
+SA_B_2 : "🔢 ᴛᴏᴘ 10 ᴛʀᴀᴄᴋꜱ"
+SA_B_3 : "🧛 ᴛᴏᴘ 10 ᴜꜱᴇʀꜱ"
+SA_B_4 : "🏷 ᴛᴏᴘ 10 ʜᴇʀᴇ"
+SA_B_5 : "💡 ᴏᴠᴇʀᴀʟʟ ꜱᴛᴀᴛꜱ"
+SA_B_6 : "👤 ᴜꜱᴇʀ ꜱᴛᴀᴛꜱ"
+SA_B_7 : "🔢 ɢʟᴏʙᴀʟ ᴛᴏᴘ 10 ꜱᴛᴀᴛꜱ"
+SA_B_8 : "🤖 ʙᴏᴛ ꜱᴛᴀᴛꜱ"
 
 #Queue
 QU_B_1 : "📑 Queued List"
