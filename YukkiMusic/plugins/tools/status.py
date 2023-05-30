@@ -1,6 +1,6 @@
 import psutil
 import time
-from AtiyaMusic import app as Client
+from YukkiMusic import app as Client
 from pyrogram import filters 
 from pyrogram.types import Message
 
