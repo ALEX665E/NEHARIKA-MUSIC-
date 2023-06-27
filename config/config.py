@@ -40,7 +40,7 @@ SONG_DOWNLOAD_DURATION = int(
 LOG_GROUP_ID = int(getenv("LOG_GROUP_ID", ""))
 
 # A name for your Music bot.
-MUSIC_BOT_NAME = getenv("MUSIC_BOT_NAME", "Saumya Music")
+MUSIC_BOT_NAME = getenv("MUSIC_BOT_NAME", "NEHARIKA MUSIC")
 
 # Your User ID.
 OWNER_ID = list(
@@ -168,7 +168,7 @@ autoclean = []
 
 
 # Images
-START_IMG_URL = getenv("START_IMG_URL", "https://te.legra.ph/file/4c59ac1a5de26c44caa49.jpg")
+START_IMG_URL = getenv("START_IMG_URL", "https://telegra.ph/file/216421d3b7fdde3bd68dc.jpg")
 
 PING_IMG_URL = getenv(
     "PING_IMG_URL",
